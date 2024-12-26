@@ -6,4 +6,4 @@ El diseño de la web está inspirado en una de las webs que aportó nuestro prof
 
 El motivo por el que hemos empleado javascript es porque la tarea exigía una serie de funcionalidades en la web que son las siguientes: un recurso que permita intercambiar imágenes al hacer click sobre ellas con el cursor, otro relacionado con una interacción en el texto y el último que pedía que hubiera un objeto en movimiento.
 
-Aquí inserto a continuación en enlace a la web:
+Aquí inserto a continuación en enlace a la web: https://xiauzin.github.io/Xiao.github.io/
